@@ -1,0 +1,56 @@
+h1 {
+	text-align: center;
+	font-family: Helvetica Neue, sans-serif;
+	padding-top: 20px;
+}
+
+h2 {
+	text-align: center;
+	font-family: Helvetica Neue, sans-serif;
+	color: #f93420;
+}
+
+div {
+	width: 486px;
+	margin: 0 auto;
+}
+
+.tiles {
+	border: 1px solid #fff;
+	width: 160px;
+	height: 160px;
+	background-color: #ccc;
+	float: left;
+}
+
+button {
+	display: block;
+	margin: 20px auto;
+	/*width: 100px;*/
+	border-style: none;
+	color: #fff;
+	font-size: 16px;
+	text-align: center;
+	border-radius: 4px;
+	background-color: #8AC007;
+	padding: 12px;
+	box-shadow: 0px 1px 0px #729f06;
+}
+
+.X {								/* Sheldon */
+	background-color: #14d6f5;
+	text-align: center;
+	font-size: 40px;
+	font-family: Helvetica Neue;
+	color: white;
+	line-height: 160px;
+}
+
+.O {								/* Amy */								
+	background-color: #ea419a;
+	text-align: center;
+	font-size: 40px;
+	font-family: Helvetica Neue;
+	color: white;
+	line-height: 160px;
+}
